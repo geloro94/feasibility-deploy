@@ -1,0 +1,117 @@
+{
+  "resourceType": "ValueSet",
+  "url": "https://ontoserver.imi.uni-luebeck.de/fhir/ValueSet/synthea_immunization",
+  "version": "0.0.1",
+  "name": "VS_Synthea_Immunization",
+  "title": "Synthea Immunization Value Set",
+  "status": "active",
+  "experimental": false,
+  "expansion": {
+    "identifier": "urn:uuid:02cb768c-b6e6-47c2-90f3-61c830e5c666",
+    "timestamp": "2024-04-25T13:33:52+00:00",
+    "total": 19,
+    "parameter": [
+      {
+        "name": "version",
+        "valueUri": "http://hl7.org/fhir/sid/cvx|20210913"
+      }
+    ],
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "43",
+        "display": "Hep B, adult"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "119",
+        "display": "rotavirus, monovalent"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "20",
+        "display": "DTaP"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "49",
+        "display": "Hib (PRP-OMP)"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "133",
+        "display": "Pneumococcal conjugate PCV 13"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "10",
+        "display": "IPV"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "140",
+        "display": "Influenza, seasonal, injectable, preservative free"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "21",
+        "display": "varicella"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "83",
+        "display": "Hep A, ped/adol, 2 dose"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "52",
+        "display": "Hep A, adult"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "114",
+        "display": "meningococcal MCV4P"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "115",
+        "display": "Tdap"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "62",
+        "display": "HPV, quadrivalent"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "113",
+        "display": "Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "121",
+        "display": "zoster vaccine, live"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "33",
+        "display": "pneumococcal polysaccharide vaccine, 23 valent"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "208",
+        "display": "SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "207",
+        "display": "SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "code": "212",
+        "display": "SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL"
+      }
+    ]
+  }
+}

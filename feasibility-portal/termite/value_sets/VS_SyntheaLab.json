@@ -1,0 +1,1088 @@
+{
+  "resourceType": "ValueSet",
+  "url": "https://ontoserver.imi.uni-luebeck.de/fhir/ValueSet/synthea_observation",
+  "version": "0.0.1",
+  "name": "VS_Synthea_Observation",
+  "title": "IMI Luebeck VS Synthea Observation Codings",
+  "status": "active",
+  "experimental": false,
+  "expansion": {
+    "identifier": "urn:uuid:c053ac0d-6e82-46cd-9a6e-df8c6f59952e",
+    "timestamp": "2024-04-25T13:25:56+00:00",
+    "total": 177,
+    "parameter": [
+      {
+        "name": "version",
+        "valueUri": "http://snomed.info/sct|http://snomed.info/sct/900000000000207008/version/20230430"
+      },
+      {
+        "name": "version",
+        "valueUri": "http://loinc.org|2.73"
+      }
+    ],
+    "contains": [
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "751-8",
+        "display": "Neutrophils [#/volume] in Blood by Automated count"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "8310-5",
+        "display": "Body Temperature"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "21908-9",
+        "display": "Stage group.clinical Cancer"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "59557-9",
+        "display": "Treatment status Cancer"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "88040-1",
+        "display": "Response to cancer treatment"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "33756-8",
+        "display": "Polyp size greatest dimension"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "57905-2",
+        "display": "Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72514-3",
+        "display": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "85354-9",
+        "display": "Blood pressure panel with all children optional"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "8480-6",
+        "display": "Systolic Blood Pressure"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "8462-4",
+        "display": "Diastolic Blood Pressure"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "75325-1",
+        "display": "Symptom"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "2708-6",
+        "display": "Oxygen saturation in Arterial blood"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "59408-5",
+        "display": "Oxygen saturation in Arterial blood by Pulse oximetry"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "19926-5",
+        "display": "FEV1/FVC"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72106-8",
+        "display": "Total score [MMSE]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "74006-8",
+        "display": "Weight difference [Mass difference] --pre dialysis - post dialysis"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "80271-0",
+        "display": "Physical findings of Abdomen by Palpation"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "76690-7",
+        "display": "Sexual orientation"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "55277-8",
+        "display": "HIV status"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "28245-9",
+        "display": "Abuse Status [OMAHA]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71802-3",
+        "display": "Housing status"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "63513-6",
+        "display": "Are you covered by health insurance or some other kind of health care plan [PhenX]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "46240-8",
+        "display": "History of Hospitalizations+Outpatient visits Narrative"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "3024-7",
+        "display": "Thyroxine (T4) free [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "3016-3",
+        "display": "Thyrotropin [Units/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "38265-5",
+        "display": "DXA Radius and Ulna [T-score] Bone density"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "4548-4",
+        "display": "Hemoglobin A1c/Hemoglobin.total in Blood"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "89579-7",
+        "display": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "91148-7",
+        "display": "Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "75893-8",
+        "display": "Pain severity in the past week - 0-10 numeric rating [Reported]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "91145-3",
+        "display": "What number best describes how pain has interfered with your enjoyment of life during the past week"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "91146-1",
+        "display": "What number best describes how pain has interfered with your general activity during the past week"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "38208-5",
+        "display": "Pain severity - Reported"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "65750-2",
+        "display": "Drugs of abuse 5 panel - Urine by Screen method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "32693-4",
+        "display": "Lactate [Moles/volume] in Blood"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "44963-7",
+        "display": "Capillary refill [Time] of Nail bed"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "2713-6",
+        "display": "Oxygen saturation Calculated from oxygen partial pressure in Blood"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "8478-0",
+        "display": "Mean blood pressure"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "8331-1",
+        "display": "Oral temperature"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "75443-2",
+        "display": "Mental health Outpatient Note"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "2857-1",
+        "display": "Prostate specific Ag [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "32465-7",
+        "display": "Physical findings of Prostate"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "46288-7",
+        "display": "US Guidance for biopsy of Prostate"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "84215-3",
+        "display": "Mental health Telehealth Note"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "87626-8",
+        "display": "Suicide prevention note"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "8302-2",
+        "display": "Body Height"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "29463-7",
+        "display": "Body Weight"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "39156-5",
+        "display": "Body mass index (BMI) [Ratio]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "14959-1",
+        "display": "Microalbumin/Creatinine [Mass Ratio] in Urine"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "33914-3",
+        "display": "Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72166-2",
+        "display": "Tobacco smoking status"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "59576-9",
+        "display": "Body mass index (BMI) [Percentile] Per age and sex"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "77606-2",
+        "display": "Weight-for-length Per age and sex"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "9843-4",
+        "display": "Head Occipital-frontal circumference"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "8867-4",
+        "display": "Heart rate"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "9279-1",
+        "display": "Respiratory rate"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "8289-1",
+        "display": "Head Occipital-frontal circumference Percentile"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6206-7",
+        "display": "Peanut IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6273-7",
+        "display": "Walnut IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6082-2",
+        "display": "Codfish IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6246-3",
+        "display": "Shrimp IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6276-0",
+        "display": "Wheat IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6106-9",
+        "display": "Egg white IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6248-9",
+        "display": "Soybean IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "7258-7",
+        "display": "Cow milk IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6189-5",
+        "display": "White oak IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6085-5",
+        "display": "Common Ragweed IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6833-8",
+        "display": "Cat dander IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6095-4",
+        "display": "American house dust mite IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6075-6",
+        "display": "Cladosporium herbarum IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6844-5",
+        "display": "Honey bee IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6158-0",
+        "display": "Latex IgE Ab [Units/volume] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "85319-2",
+        "display": "HER2 [Presence] in Breast cancer specimen by Immune stain"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "85337-4",
+        "display": "Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "85339-0",
+        "display": "Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "21924-6",
+        "display": "Tumor marker Cancer"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "10480-2",
+        "display": "Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "85318-4",
+        "display": "HER2 [Presence] in Breast cancer specimen by FISH"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "21907-1",
+        "display": "Distant metastases.clinical [Class] Cancer"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "21905-5",
+        "display": "Primary tumor.clinical [Class] Cancer"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "21906-3",
+        "display": "Regional lymph nodes.clinical [Class] Cancer"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "33728-7",
+        "display": "Size.maximum dimension in Tumor"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "44667-4",
+        "display": "Site of distant metastasis in Breast tumor"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "85352-3",
+        "display": "Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "85344-0",
+        "display": "Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "85343-2",
+        "display": "Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "19994-3",
+        "display": "Oxygen/Total gas setting [Volume Fraction] Ventilator"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "48065-7",
+        "display": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "14804-9",
+        "display": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "2532-0",
+        "display": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "1988-5",
+        "display": "C reactive protein [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "2157-6",
+        "display": "Creatine kinase [Enzymatic activity/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "33959-8",
+        "display": "Procalcitonin [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "66519-0",
+        "display": "Percentage area affected by eczema Head and Neck [PhenX]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "66529-9",
+        "display": "Percentage area affected by eczema Trunk [PhenX]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "66524-0",
+        "display": "Percentage area affected by eczema Upper extremity - bilateral [PhenX]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "66534-9",
+        "display": "Percentage area affected by eczema Lower extremity - bilateral [PhenX]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "6301-6",
+        "display": "INR in Platelet poor plasma by Coagulation assay"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "19123-9",
+        "display": "Magnesium [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "93025-5",
+        "display": "Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "56051-6",
+        "display": "Do you consider yourself Hispanic/Latino?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "32624-9",
+        "display": "Race"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "93035-4",
+        "display": "At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "93034-7",
+        "display": "Have you been discharged from the armed forces of the United States?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "54899-0",
+        "display": "Preferred language"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "63512-8",
+        "display": "How many people are living or staying at this address?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "93033-9",
+        "display": "Are you worried about losing your housing?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "56799-0",
+        "display": "Address"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "82589-3",
+        "display": "Highest level of education"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "67875-5",
+        "display": "Employment status - current"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "76437-3",
+        "display": "Primary insurance"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "63586-2",
+        "display": "What was your best estimate of the total income of all family members from all sources, before taxes, in last year?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "93031-3",
+        "display": "In the past year, have you or any family members you live with been unable to get any of the following when it was really needed?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "93030-5",
+        "display": "Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "93029-7",
+        "display": "How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "93038-8",
+        "display": "Stress level"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "93028-9",
+        "display": "In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "93027-1",
+        "display": "Are you a refugee?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "93026-3",
+        "display": "Do you feel physically and emotionally safe where you currently live?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "76501-6",
+        "display": "Within the last year, have you been afraid of your partner or ex-partner?"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "70006-2",
+        "display": "Medication management note"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "21377-7",
+        "display": "Magnesium [Mass/volume] in Blood"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "3173-2",
+        "display": "aPTT in Blood by Coagulation assay"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71425-3",
+        "display": "Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Blood by Immunoassay"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "33762-6",
+        "display": "NT-proBNP"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "18752-6",
+        "display": "Exercise stress test study"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "3184-9",
+        "display": "Activated clotting time (ACT) of Blood by Coagulation assay"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "86923-0",
+        "display": "Kansas City Cardiomyopathy Questionnaire - 12 item [KCCQ-12]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "86924-8",
+        "display": "Overall summary score [KCCQ-12]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "29554-3",
+        "display": "Procedure Narrative"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "2777-1",
+        "display": "Phosphate [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "22577-1",
+        "display": "Toxoplasma gondii Ab [Presence] in Serum"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "24467-3",
+        "display": "CD3+CD4+ (T4 helper) cells [#/volume] in Blood"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "20447-9",
+        "display": "HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72091-2",
+        "display": "Knee injury and Osteoarthritis Outcome Score [KOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72101-9",
+        "display": "Symptoms score [KOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72102-7",
+        "display": "Pain score [KOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72100-1",
+        "display": "Activities of daily living score [KOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72099-5",
+        "display": "Sport-recreation score [KOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72098-7",
+        "display": "Quality of life score [KOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "61576-5",
+        "display": "PROMIS short form - global - version 1.1"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71972-4",
+        "display": "PROMIS-10 Global Physical Health (GPH) score"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71970-8",
+        "display": "PROMIS-10 Global Mental Health (GMH) score"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72092-0",
+        "display": "Hip Dysfunction and Osteoarthritis Outcome Score [HOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72096-1",
+        "display": "Symptoms score [HOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72097-9",
+        "display": "Pain score [HOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72095-3",
+        "display": "Activities of daily living score [HOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72094-6",
+        "display": "Sport-recreation score [HOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72093-8",
+        "display": "Quality of life score [HOOS]"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71933-6",
+        "display": "Veterans Rand health survey - 36 item (VR-36)"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71973-2",
+        "display": "VR-36 Mental health (MH) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71974-0",
+        "display": "VR-36 Role emotion (RE) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71975-7",
+        "display": "VR-36 Social functioning (SF) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71976-5",
+        "display": "VR-36 Vitality (VT) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71977-3",
+        "display": "VR-36 General health (GH) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71978-1",
+        "display": "VR-36 Bodily pain (BP) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71979-9",
+        "display": "VR-36 Role physical (RP) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71980-7",
+        "display": "VR-36 Physical functioning (PF) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "62337-1",
+        "display": "PROMIS item bank - 29 profile"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71956-7",
+        "display": "PROMIS-29 Sleep disturbance score"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71958-3",
+        "display": "PROMIS-29 Satisfaction with participation in social roles score"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71960-9",
+        "display": "PROMIS-29 Physical function score"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71962-5",
+        "display": "PROMIS-29 Pain interference score"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71964-1",
+        "display": "PROMIS-29 Fatigue score"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71966-6",
+        "display": "PROMIS-29 Depression score"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71968-2",
+        "display": "PROMIS-29 Anxiety score"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "71934-4",
+        "display": "Veterans Rand health survey - 12 item (VR-12)"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72009-4",
+        "display": "VR-12 Mental health (MH) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72010-2",
+        "display": "VR-12 Role emotion (RE) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72011-0",
+        "display": "VR-12 Social functioning (SF) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72012-8",
+        "display": "VR-12 Vitality (VT) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72013-6",
+        "display": "VR-12 General health (GH) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72014-4",
+        "display": "VR-12 Bodily pain (BP) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72015-1",
+        "display": "VR-12 Role physical (RP) score - oblique method"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.73",
+        "code": "72016-9",
+        "display": "VR-12 Physical functioning (PF) score - oblique method"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "29303009",
+        "display": "Electrocardiographic procedure"
+      }
+    ]
+  }
+}

@@ -8,6 +8,7 @@ KEY_FILE=${KEY_FILE:-$BASE_DIR/auth/key.pem}
 docker-compose -p "$COMPOSE_PROJECT" -f "$BASE_DIR"/aktin-client/docker-compose.yml up -d
 docker-compose -p "$COMPOSE_PROJECT" -f "$BASE_DIR"/flare/docker-compose.yml up -d
 docker-compose -p "$COMPOSE_PROJECT" -f "$BASE_DIR"/fhir-server/docker-compose.yml up -d
+docker-compose -p "$COMPOSE_PROJECT" -f "$BASE_DIR"/pathling_staging/docker-compose.yml up -d
 
 if [ -f "$CERT_FILE" ] && [ -f "$KEY_FILE" ]; then
     echo "Auth files cert: $CERT_FILE and key: $KEY_FILE exist => starting NGINX reverse proxy on port $PORT_NUM_NODE_REV_PROXY"

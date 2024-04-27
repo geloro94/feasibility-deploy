@@ -1,0 +1,1921 @@
+{
+  "resourceType": "ValueSet",
+  "url": "https://ontoserver.imi.uni-luebeck.de/fhir/ValueSet/synthea_procedure",
+  "version": "0.0.1",
+  "name": "VS_Synthea_Procedure",
+  "title": "IMI Luebeck VS Synthea Procedure Codings",
+  "status": "active",
+  "experimental": false,
+  "expansion": {
+    "identifier": "urn:uuid:7fc7f43b-c0e5-48d7-a726-c9853f1a0368",
+    "timestamp": "2024-04-25T13:39:07+00:00",
+    "total": 351,
+    "parameter": [
+      {
+        "name": "version",
+        "valueUri": "http://snomed.info/sct|http://snomed.info/sct/900000000000207008/version/20230430"
+      }
+    ],
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "code": "77477000",
+        "display": "Computed tomography (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "387713003",
+        "display": "Surgical procedure (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "417746004",
+        "display": "Traumatic injury (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "297279009",
+        "display": "Steroid therapy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "699253003",
+        "display": "Surgical manipulation of joint of knee (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "287664005",
+        "display": "Ligation of bilateral fallopian tubes (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "169553002",
+        "display": "Insertion of subcutaneous contraceptive (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "65200003",
+        "display": "Insertion of intrauterine contraceptive device (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "46706006",
+        "display": "Replacement of contraceptive intrauterine device (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "367336001",
+        "display": "Chemotherapy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "305351004",
+        "display": "Admission to intensive care unit (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "16983000",
+        "display": "Death in hospital (event)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "449214001",
+        "display": "Transfer to stepdown"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "395142003",
+        "display": "Allergy screening test"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "80146002",
+        "display": "Appendectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "171231001",
+        "display": "Asthma screening"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "18286008",
+        "display": "Catheter ablation of tissue of heart (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "180325003",
+        "display": "Direct current cardioversion (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "228557008",
+        "display": "Cognitive and behavioral therapy (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "241055006",
+        "display": "Mammogram - symptomatic (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "1571000087109",
+        "display": "Ultrasonography of bilateral breasts (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "241615005",
+        "display": "Magnetic resonance imaging of breast (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "71651007",
+        "display": "Mammography (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "35025007",
+        "display": "Manual pelvic examination (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "90226004",
+        "display": "Cytopathology procedure, preparation of smear, genital source (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "312681000",
+        "display": "Bone density scan (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "122548005",
+        "display": "Biopsy of breast (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "24623002",
+        "display": "Screening mammography (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "223487003",
+        "display": "Discussion about options (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "25656009",
+        "display": "Physical examination, complete (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "399208008",
+        "display": "Plain chest X-ray (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "269911007",
+        "display": "Sputum examination (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "23426006",
+        "display": "Measurement of respiratory function (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "234817001",
+        "display": "Insertion of oral appliance for the handicapped (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "311834001",
+        "display": "Fiberoptic Endoscopic Evaluation of Swallowing"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "182836005",
+        "display": "Review of Medication (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "717778001",
+        "display": "Mouth care (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "229069003",
+        "display": "Posture training (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "166001",
+        "display": "Behavioral therapy (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "311707005",
+        "display": "Oromotor Exercises"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "312421008",
+        "display": "Radionuclide Imaging"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "173521004",
+        "display": "Transposition of submandibular duct (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "302351005",
+        "display": "Ligation of salivary duct (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "404909007",
+        "display": "Injection of botulinum toxin (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "241149003",
+        "display": "Videofluoroscopy swallow (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "182777000",
+        "display": "Monitoring of patient (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "73761001",
+        "display": "Colonoscopy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "104435004",
+        "display": "Screening for occult blood in feces (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "274031008",
+        "display": "Rectal polypectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "76164006",
+        "display": "Biopsy of colon"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "43075005",
+        "display": "Partial resection of colon"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "387607004",
+        "display": "Construction of diverting colostomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "703423002",
+        "display": "Combined chemotherapy and radiation therapy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "133899007",
+        "display": "Postoperative care (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "430193006",
+        "display": "Medication Reconciliation (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "371908008",
+        "display": "Oxygen administration by mask (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "431182000",
+        "display": "Placing subject in prone position (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "29303009",
+        "display": "Electrocardiographic procedure"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "76746007",
+        "display": "Cardiovascular stress testing (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "423475008",
+        "display": "Heart failure education (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "762998009",
+        "display": "Assessment using New York Heart Association Classification (procedure)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "68254000",
+        "display": "Removal of intrauterine device"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "301807007",
+        "display": "Removal of subcutaneous contraceptive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "76601001",
+        "display": "Intramuscular injection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "127783003",
+        "display": "Spirometry (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "88039007",
+        "display": "Transplant of lung (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "429609002",
+        "display": "Lung volume reduction surgery (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "15081005",
+        "display": "Pulmonary rehabilitation (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "225415001",
+        "display": "Close observation (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "86964003",
+        "display": "Sweat Test"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "444260001",
+        "display": "20 Gene mutation test"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "385186005",
+        "display": "Enema"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "60151004",
+        "display": "Neonatal Screening"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "104173009",
+        "display": "Sputum Culture"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "113076002",
+        "display": "Oral Glucose Tolerance Test"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "232657004",
+        "display": "Lung Transplant"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "82078001",
+        "display": "Take blood sample"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "14152002",
+        "display": "Intravenous infusion (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "281790008",
+        "display": "Intravenous antibiotic therapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "48387007",
+        "display": "Incision of trachea (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "65710008",
+        "display": "Oxygen Therapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "265764009",
+        "display": "Renal dialysis (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "54550000",
+        "display": "Electroencephalogram (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "45595009",
+        "display": "Laparoscopic Removal of Gall Bladder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "38102005",
+        "display": "Open Removal of Gall Bladder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "67879005",
+        "display": "History and physical examination, limited (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "9564003",
+        "display": "Complete blood count with white cell differential, automated (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "373786007",
+        "display": "Reasons for treatment delay (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "417511005",
+        "display": "Referral to home health care service (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "315639002",
+        "display": "Initial patient assessment (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "200619008",
+        "display": "Comprehensive interview and evaluation (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "370789001",
+        "display": "Development of individualized plan of care (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "711069006",
+        "display": "Coordination of care plan (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "91251008",
+        "display": "Physical therapy procedure (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "84478008",
+        "display": "Occupational therapy (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "311555007",
+        "display": "Speech and language therapy regime (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "58000006",
+        "display": "Patient discharge (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "410401003",
+        "display": "Nursing care/supplementary surveillance (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "385781007",
+        "display": "Home health aide service (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "183418007",
+        "display": "Social case work (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "311791003",
+        "display": "Information gathering (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "310417005",
+        "display": "Certification procedure (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "185087000",
+        "display": "Notifications (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "385763009",
+        "display": "Hospice care (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "183856001",
+        "display": "Referral to hypertension clinic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "305425002",
+        "display": "Admission to neurosurgical department"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "305433001",
+        "display": "Admission to trauma surgery department"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "274474001",
+        "display": "Bone immobilization"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "305428000",
+        "display": "Admission to orthopedic department"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "183450002",
+        "display": "Admission to burn unit"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "305340004",
+        "display": "Admission to long stay hospital"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "288086009",
+        "display": "Suture open wound"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "384700001",
+        "display": "Injection of tetanus antitoxin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "387685009",
+        "display": "Surgical manipulation of shoulder joint"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "473231009",
+        "display": "Renal disorder medication review (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "70536003",
+        "display": "Transplant of kidney (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "428830000",
+        "display": "Pretransplant evaluation of kidney recipient (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "306316000",
+        "display": "Referral to transplant surgeon (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "711446003",
+        "display": "Transplantation of kidney regime (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "418891003",
+        "display": "Computed tomography of chest and abdomen"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "167995008",
+        "display": "Sputum microscopy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "91602002",
+        "display": "Thoracentesis (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "432231006",
+        "display": "Fine needle aspiration biopsy of lung (procedure)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "173160006",
+        "display": "Diagnostic fiberoptic bronchoscopy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "698354004",
+        "display": "Magnetic resonance imaging for measurement of brain volume (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "398171003",
+        "display": "Hearing examination (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "710839006",
+        "display": "Assessment of cardiac status using monitoring device (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "15220000",
+        "display": "Laboratory test (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "433236007",
+        "display": "Transthoracic echocardiography (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "165197003",
+        "display": "Diagnostic assessment (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "65546002",
+        "display": "Extraction of wisdom tooth"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "52052004",
+        "display": "Rehabilitation therapy (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "252160004",
+        "display": "Standard pregnancy test"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "169230002",
+        "display": "Ultrasound scan for fetal viability"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "274804006",
+        "display": "Evaluation of uterine fundal height"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "225158009",
+        "display": "Auscultation of the fetal heart"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "44608003",
+        "display": "Blood group typing (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "104091002",
+        "display": "Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "47758006",
+        "display": "Hepatitis B Surface Antigen Measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "31676001",
+        "display": "Human immunodeficiency virus antigen test"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "310861008",
+        "display": "Chlamydia antigen test"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "165829005",
+        "display": "Gonorrhea infection titer test (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "269828009",
+        "display": "Syphilis infectious titer test (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "117010004",
+        "display": "Urine culture"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "395123002",
+        "display": "Urine screening test for diabetes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "104375008",
+        "display": "Hepatitis C antibody, confirmatory test"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "169690007",
+        "display": "Rubella screening"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "104326007",
+        "display": "Measurement of Varicella-zoster virus antibody"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "28163009",
+        "display": "Skin test for tuberculosis, Tine test (procedure)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "167271000",
+        "display": "Urine protein test"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "5880005",
+        "display": "Physical examination procedure (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "443529005",
+        "display": "Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "271442007",
+        "display": "Fetal anatomy study"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "275833003",
+        "display": "AFP test - antenatal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "169673001",
+        "display": "Antenatal RhD antibody screening"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "51116004",
+        "display": "Passive immunization (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "399014008",
+        "display": "Administration of diphtheria, pertussis, and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "268556000",
+        "display": "Urine screening for glucose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "118001005",
+        "display": "Streptococcus pneumoniae group B antigen assay"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "31208007",
+        "display": "Medical induction of labor"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "18946005",
+        "display": "Epidural anesthesia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "237001001",
+        "display": "Augmentation of labor"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "85548006",
+        "display": "Episiotomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "236974004",
+        "display": "Instrumental delivery"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "177157003",
+        "display": "Spontaneous breech delivery"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "66348005",
+        "display": "Childbirth"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "65588006",
+        "display": "Premature birth of newborn"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "11466000",
+        "display": "Cesarean section"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "236931002",
+        "display": "Methotrexate injection into tubal pregnancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "445912000",
+        "display": "Excision of fallopian tube and surgical removal of ectopic pregnancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "171207006",
+        "display": "Depression screening"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "10383002",
+        "display": "Counseling for termination of pregnancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "714812005",
+        "display": "Induced termination of pregnancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "386394001",
+        "display": "Pregnancy termination care"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "229064008",
+        "display": "Movement therapy (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "408919008",
+        "display": "Psychosocial care (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "90407005",
+        "display": "Evaluation of psychiatric state of patient"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "74857009",
+        "display": "Hospital admission, short-term, 24 hours"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "88848003",
+        "display": "Psychiatric follow-up"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "29240004",
+        "display": "Autopsy examination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "430701006",
+        "display": "Resuscitation using intravenous fluid (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "40617009",
+        "display": "Artificial respiration (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "243174005",
+        "display": "Weaning from mechanically assisted ventilation (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "112790001",
+        "display": "Nasal sinus endoscopy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "103750000",
+        "display": "Sleep apnea assessment (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "82808001",
+        "display": "Sleep apnea monitoring with alarm (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "60554003",
+        "display": "Polysomnography (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "108243003",
+        "display": "Sleep disorder test AND/OR procedure (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "446573003",
+        "display": "Continuous positive airway pressure titration (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "698560000",
+        "display": "Referral to sleep apnea clinic (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "117015009",
+        "display": "Throat culture (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "42839003",
+        "display": "Repair of myelomeningocele (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "47020004",
+        "display": "Ventriculoperitoneal shunt (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "84728005",
+        "display": "Neurological examination (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "441763001",
+        "display": "Endoscopic third ventriculostomy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "17881005",
+        "display": "Cauterization of choroid plexus (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "303653007",
+        "display": "Computed tomography of head (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "241645008",
+        "display": "Magnetic resonance imaging of spine (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "9002005",
+        "display": "Manual testing of muscle function (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "252895004",
+        "display": "Urodynamic studies (procedure"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "709640007",
+        "display": "Doppler ultrasonography of renal vein (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "433112001",
+        "display": "Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance with contrast (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "40701008",
+        "display": "Echocardiography (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "609588000",
+        "display": "Total knee replacement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "52734007",
+        "display": "Total replacement of hip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "112001000119100",
+        "display": "positive screening for PHQ-9"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "112011000119102",
+        "display": "negative screening for PHQ9"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "410006001",
+        "display": "Digital examination of rectum"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "65575008",
+        "display": "Biopsy of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "90470006",
+        "display": "Prostatectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "225337009",
+        "display": "Suicide risk assessment (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "715252007",
+        "display": "Depression screening using Patient Health Questionnaire Nine Item score (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "385892002",
+        "display": "Mental health screening (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "390791001",
+        "display": "Referral for echocardiography (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "180256009",
+        "display": "Subcutaneous immunotherapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "313191000",
+        "display": "Injection of epinephrine (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "415300000",
+        "display": "Review of systems (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "162676008",
+        "display": "Brief general examination (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "180207008",
+        "display": "Intravenous blood transfusion of packed cells (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "14768001",
+        "display": "Peripheral blood smear interpretation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "434363004",
+        "display": "Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "433114000",
+        "display": "Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "69031006",
+        "display": "Excision of breast tissue (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "392021009",
+        "display": "Lumpectomy of breast (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "33195004",
+        "display": "External beam radiation therapy procedure (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "385798007",
+        "display": "Radiation therapy care (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "108290001",
+        "display": "Radiation oncology AND/OR radiotherapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "447759004",
+        "display": "Brachytherapy of breast (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "113120007",
+        "display": "Interstitial brachytherapy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "384692006",
+        "display": "Intracavitary brachytherapy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "396487001",
+        "display": "Sentinel lymph node biopsy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "234262008",
+        "display": "Excision of axillary lymph node (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "43060002",
+        "display": "Intravenous injection (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "443497002",
+        "display": "Excision of sentinel lymph node (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "268533009",
+        "display": "Sterilization education (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "22523008",
+        "display": "Vasectomy"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "26763009",
+        "display": "Controlled ventilation procedure and therapy, initiation and management (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "112798008",
+        "display": "Insertion of endotracheal tube (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "271280005",
+        "display": "Removal of endotracheal tube (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "302497006",
+        "display": "Hemodialysis (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "61594008",
+        "display": "Microbial culture (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "261352009",
+        "display": "Face mask (physical object)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "13569004",
+        "display": "Transfusion of plasma (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "103746007",
+        "display": "Heparin therapy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "36576007",
+        "display": "Infusion (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "710841007",
+        "display": "Assessment of anxiety (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "762993000",
+        "display": "Assessment using Morse Fall Scale (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "866148006",
+        "display": "Screening for domestic abuse (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "710824005",
+        "display": "Assessment of health and social care needs (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "428211000124100",
+        "display": "Assessment of substance use (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "868187001",
+        "display": "Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "370995009",
+        "display": "Health risks education (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "386516004",
+        "display": "Anticipatory guidance (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "763302001",
+        "display": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "713106006",
+        "display": "Screening for drug abuse (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "183519002",
+        "display": "Referral to cardiology service (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "232967006",
+        "display": "Implantation of left ventricular assist device (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "32413006",
+        "display": "Transplantation of heart (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "243063003",
+        "display": "Postoperative procedure education (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "225338004",
+        "display": "Risk assessment (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "415070008",
+        "display": "Percutaneous coronary intervention (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "33367005",
+        "display": "Angiography of coronary artery (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "71493000",
+        "display": "Transfusion of packed red blood cells (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "12719002",
+        "display": "Platelet transfusion (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "116861002",
+        "display": "Transfusion of fresh frozen plasma (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "698314001",
+        "display": "Consultation for treatment (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "232816009",
+        "display": "Aortic valve and adjacent structure operations (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "261554009",
+        "display": "Reoperation (qualifier value)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "116863004",
+        "display": "Transfusion of red blood cells (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "233174007",
+        "display": "Cardiac pacemaker procedure (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "110467000",
+        "display": "Pre-surgery testing (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "252480006",
+        "display": "Simple walk test (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "34043003",
+        "display": "Dental consultation and report (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "763228001",
+        "display": "Assessment using Canadian Study of Health and Aging Clinical Frailty Scale (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "445988008",
+        "display": "Assessment using health assessment questionnaire (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "709010006",
+        "display": "Liaising with referral source (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "312853008",
+        "display": "Medical records review (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "312384001",
+        "display": "Multidisciplinary assessment (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "384682003",
+        "display": "Multidisciplinary care conference (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "709138001",
+        "display": "Notification of treatment plan (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "410538000",
+        "display": "Scheduling (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "3457005",
+        "display": "Patient referral (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "306237005",
+        "display": "Referral to palliative care service (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "133900002",
+        "display": "Intraoperative care (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "34896006",
+        "display": "Incision (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "42825003",
+        "display": "Cannulation (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "63697000",
+        "display": "Cardiopulmonary bypass operation (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "301882004",
+        "display": "Placement of aortic cross clamp (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "8290005",
+        "display": "Induced cardioplegia (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "301884003",
+        "display": "Removal of aortic cross clamp (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "233553003",
+        "display": "Vascular cannula removal (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "392247006",
+        "display": "Insertion of catheter into artery (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "26212005",
+        "display": "Replacement of aortic valve (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "1155885007",
+        "display": "Repair of aortic valve (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "58828004",
+        "display": "Application of dressing, sterile (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "37729005",
+        "display": "Patient transfer, in-hospital (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "306706006",
+        "display": "Discharge to ward (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "308283009",
+        "display": "Discharge from hospital (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "268400002",
+        "display": "12 lead electrocardiogram (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "63332003",
+        "display": "History AND physical examination (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "183976008",
+        "display": "Operative procedure planned (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "306185001",
+        "display": "Referral to cardiac surgery service (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "359672006",
+        "display": "Median sternotomy (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "177765008",
+        "display": "Opening of chest (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "385488000",
+        "display": "Surgical procedure on chest wall (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "399217008",
+        "display": "Cardioassist by aortic balloon pump (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "65677008",
+        "display": "Pulmonary catheterization with Swan-Ganz catheter (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "223495004",
+        "display": "Preparation of patient for procedure (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "232717009",
+        "display": "Coronary artery bypass grafting (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "23745001",
+        "display": "Documentation procedure (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "414088005",
+        "display": "Emergency coronary artery bypass graft (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "418824004",
+        "display": "Off-pump coronary artery bypass (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "232965003",
+        "display": "Implantation of ventricular assist device (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "180178009",
+        "display": "Continuous subcutaneous infusion of insulin (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "302761001",
+        "display": "Walking exercise test (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "252482003",
+        "display": "Stair-climbing test (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "122460008",
+        "display": "Reexploration procedure (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "306206005",
+        "display": "Referral to service (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "736169004",
+        "display": "Post anesthesia care management (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "410011004",
+        "display": "Administration of anesthesia AND/OR sedation (procedure)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "725351001",
+        "display": "Transcatheter aortic valve replacement (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "305342007",
+        "display": "Admission to ward (procedure"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "167252002",
+        "display": "Urine pregnancy test (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "412809002",
+        "display": "Viral hepatitis screening test (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "171122006",
+        "display": "Hepatitis B screening (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "413107006",
+        "display": "Hepatitis C screening (procedure)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "313613002",
+        "display": "Hepatitis A antibody test (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "171126009",
+        "display": "Tuberculosis screening (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "171128005",
+        "display": "Venereal disease screening (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "104308009",
+        "display": "Serologic test for Toxoplasma gondii (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "446987006",
+        "display": "Determination of susceptibility of Human immunodeficiency virus 1 to panel of antiretroviral drugs using genotypic technique (procedure)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "409066002",
+        "display": "Education, guidance and counseling (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "225297008",
+        "display": "Care planning and problem solving actions (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "711018006",
+        "display": "Assessment of social support (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "709506004",
+        "display": "Assessment of readiness for disclosure of health status (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "733863009",
+        "display": "Assessment of readiness for self-management (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "313660005",
+        "display": "Absolute CD4 count procedure (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "313077009",
+        "display": "Human immunodeficiency virus counseling (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "315124004",
+        "display": "Human immunodeficiency virus viral load (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "180030006",
+        "display": "Amputation of left foot"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "79733001",
+        "display": "Amputation of left leg"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "46028000",
+        "display": "Amputation of left hand"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "13995008",
+        "display": "Amputation of right arm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "386510005",
+        "display": "Amputation care (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "409023009",
+        "display": "Professional / ancillary services care (regime/therapy)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "392091000",
+        "display": "Care regimes assessment (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "225386006",
+        "display": "Pre-discharge assessment (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "52765003",
+        "display": "Intubation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "410770002",
+        "display": "Administration of anesthesia for procedure (procedure)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "290045001",
+        "display": "Kitchen practice"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "229095001",
+        "display": "Exercise class"
+      }
+    ]
+  }
+}

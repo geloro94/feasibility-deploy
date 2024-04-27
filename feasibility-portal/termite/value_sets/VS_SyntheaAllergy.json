@@ -1,0 +1,344 @@
+{
+  "resourceType": "ValueSet",
+  "url": "https://ontoserver.imi.uni-luebeck.de/fhir/ValueSet/synthea_allergyintolerance",
+  "version": "0.0.1",
+  "name": "VS_Synthea_AllergyIntolerance",
+  "title": "IMI Luebeck VS Synthea AllergyIntolerance Codings",
+  "status": "active",
+  "experimental": false,
+  "expansion": {
+    "identifier": "urn:uuid:2dbd89dd-e631-4c6e-ba81-00085401a6e8",
+    "timestamp": "2024-04-25T13:32:22+00:00",
+    "total": 51,
+    "parameter": [
+      {
+        "name": "version",
+        "valueUri": "http://snomed.info/sct|http://snomed.info/sct/900000000000207008/version/20230430"
+      },
+      {
+        "name": "version",
+        "valueUri": "http://www.nlm.nih.gov/research/umls/rxnorm|0.0.1"
+      }
+    ],
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "37333",
+        "display": "sulfanilylurea"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "8516",
+        "display": "polyethylene glycols"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "448",
+        "display": "ethanol"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "797541",
+        "display": "isopropyl alcohol"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "393540",
+        "display": "laureth-4"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "2183102",
+        "display": "pexidartinib"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "357977",
+        "display": "sunitinib"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "82122",
+        "display": "levofloxacin"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "10612",
+        "display": "tinidazole"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "8782",
+        "display": "propofol"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "4337",
+        "display": "fentanyl"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "68139",
+        "display": "rocuronium"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "36453",
+        "display": "sevoflurane"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "1815",
+        "display": "bupivacaine"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "7984",
+        "display": "Penicillin V"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "1191",
+        "display": "Aspirin"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "5640",
+        "display": "Ibuprofen"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "10831",
+        "display": "Sulfamethoxazole / Trimethoprim"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "25037",
+        "display": "cefdinir"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "25033",
+        "display": "Cefixime"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "20489",
+        "display": "cefpodoxime"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "2191",
+        "display": "Ceftazidime"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "2193",
+        "display": "Ceftriaxone"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "2180",
+        "display": "Cefazolin"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "2231",
+        "display": "Cephalexin"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "2176",
+        "display": "Cefaclor"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "20481",
+        "display": "cefepime"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "2189",
+        "display": "Cefoxitin"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "2194",
+        "display": "Cefuroxime"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "29046",
+        "display": "Lisinopril"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "1998",
+        "display": "Captopril"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "3827",
+        "display": "Enalapril"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "18867",
+        "display": "benazepril"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "35208",
+        "display": "quinapril"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "0.0.1",
+        "code": "35296",
+        "display": "Ramipril"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "419199007",
+        "display": "Allergy to substance (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "782576004",
+        "display": "Tree pollen (substance)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "256277009",
+        "display": "Grass pollen (substance)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "264287008",
+        "display": "Animal dander (substance)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "260147004",
+        "display": "House dust mite (organism)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "84489001",
+        "display": "Mold (organism)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "288328004",
+        "display": "Bee venom (substance)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "111088007",
+        "display": "Latex (substance)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "762952008",
+        "display": "Peanut (substance)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "442571000124108",
+        "display": "Tree nut (substance)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "735971005",
+        "display": "Fish (substance)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "735029006",
+        "display": "Shellfish (substance)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "412071004",
+        "display": "Wheat (substance)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "102263004",
+        "display": "Eggs (edible) (substance)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "256355007",
+        "display": "Soy bean"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "http://snomed.info/sct/900000000000207008/version/20230430",
+        "code": "3718001",
+        "display": "Cow's milk (substance)"
+      }
+    ]
+  }
+}

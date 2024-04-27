@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  pathling-staging:
+    image: ghcr.io/geloro94/pathling_staging:v0.1.12
+    ports:
+      - "127.0.0.1:8095:8000"
+    environment:
+      TERMINOLOGY_SERVER_URL: https://r4.ontoserver.csiro.au/fhir
+      JAVA_TOOL_OPTIONS: -Xmx24g -XX:MaxMetaspaceSize=500m -XX:ReservedCodeCacheSize=240m -Xss1m
+      FHIR_SERVER_BASE_URL: ${FHIR_SERVER_BASE_URL:-http://fhir-server:8080/fhir}
+      FLARE_BASE_URL: ${FEASIBILITY_BACKEND_FLARE_WEBSERVICE_BASE_URL:-http://flare:8080}
+    privileged: true
+

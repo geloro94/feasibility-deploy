@@ -18,4 +18,5 @@ fi
 
 docker-compose -p "$COMPOSE_PROJECT" -f "$BASE_DIR"/keycloak/docker-compose.yml up -d
 docker-compose -p "$COMPOSE_PROJECT" -f "$BASE_DIR"/backend/docker-compose.yml up -d
+docker-compose -p "$COMPOSE_PROJECT" -f "$BASE_DIR"/termite/docker-compose.yml up -d
 docker-compose -p "$COMPOSE_PROJECT" -f "$BASE_DIR"/gui/docker-compose.yml up -d

@@ -1,0 +1,1883 @@
+{
+  "resourceType": "ValueSet",
+  "url": "https://ontoserver.imi.uni-luebeck.de/fhir/ValueSet/synthea_condition",
+  "version": "0.0.1",
+  "name": "VS_Synthea_Condition",
+  "title": "IMI Luebeck VS Synthea Condition Codings",
+  "status": "active",
+  "experimental": false,
+  "expansion": {
+    "identifier": "urn:uuid:ab31f55c-f93f-4b40-8bb9-68081aab7f34",
+    "timestamp": "2024-04-25T13:28:59+00:00",
+    "total": 353,
+    "parameter": [
+      {
+        "name": "version",
+        "valueUri": "http://snomed.info/sct|http://snomed.info/sct/900000000000207008/version/20230430"
+      }
+    ],
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "code": "73211009",
+        "display": "Diabetes mellitus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "94225005",
+        "display": "Metastatic malignant neoplasm to brain (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "40733004",
+        "display": "Infectious disease (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "42343007",
+        "display": "Congestive heart failure (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "194828000",
+        "display": "Angina (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "698247007",
+        "display": "Cardiac arrhythmia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "77386006",
+        "display": "Pregnancy (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "19030005",
+        "display": "Human immunodeficiency virus (organism)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "126877002",
+        "display": "Disorder of glucose metabolism (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "51387008",
+        "display": "Acidosis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "372130007",
+        "display": "Malignant neoplasm of skin (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "315276005",
+        "display": "Suspected skin cancer (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "88594005",
+        "display": "Herpes simplex (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "418470004",
+        "display": "Porphyria (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "66931009",
+        "display": "Hypercalcemia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "27712000",
+        "display": "Hypervitaminosis D (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "236423003",
+        "display": "Renal impairment (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "370143000",
+        "display": "Major depressive disorder (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "66071002",
+        "display": "Viral hepatitis type B (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "50711007",
+        "display": " Viral hepatitis type C (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "235856003",
+        "display": "Disorder of liver (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "39621005",
+        "display": "Disorder of gallbladder (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "233703007",
+        "display": " Interstitial lung disease (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "417746004",
+        "display": "Traumatic injury (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "363346000",
+        "display": "Malignant neoplastic disease (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "237072009",
+        "display": "Endometrial hyperplasia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "52448006",
+        "display": "Dementia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "58214004",
+        "display": "Schizophrenia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "26929004",
+        "display": "Alzheimer's disease (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "32798002",
+        "display": "Parkinsonism (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "128613002",
+        "display": "Seizure disorder (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "127294003",
+        "display": "Traumatic or nontraumatic brain injury (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "428061005",
+        "display": "Malignant neoplasm of brain (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "230690007",
+        "display": "Cerebrovascular accident (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "45170000",
+        "display": "Encephalitis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "266257000",
+        "display": "Transient ischemic attack (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "56019007",
+        "display": "Systemic disease (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "371073003",
+        "display": "Postural orthostatic tachycardia syndrome (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "34095006",
+        "display": "Dehydration (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "397923000",
+        "display": "Somatization disorder (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "48447003",
+        "display": "Chronic heart failure (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "19829001",
+        "display": "Disorder of lung (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "363406005",
+        "display": " Malignant neoplasm of colon (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "40930008",
+        "display": "Hypothyroidism (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "90739004",
+        "display": "Thyrotoxicosis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "409089005",
+        "display": "Febrile neutropenia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "47318007",
+        "display": "Neutropenia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "5758002",
+        "display": "Bacteremia (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "91861009",
+        "display": "Acute myeloid leukemia, disease (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "367498001",
+        "display": "Seasonal allergic rhinitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "446096008",
+        "display": "Perennial allergic rhinitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "232353008",
+        "display": "Perennial allergic rhinitis with seasonal variation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "74400008",
+        "display": "Appendicitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "47693006",
+        "display": "Rupture of appendix"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "428251008",
+        "display": "History of appendectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "233678006",
+        "display": "Childhood asthma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "195967001",
+        "display": "Asthma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "49436004",
+        "display": "Atrial fibrillation (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "192127007",
+        "display": "Child attention deficit disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "254837009",
+        "display": "Malignant neoplasm of breast (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "10509002",
+        "display": "Acute bronchitis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "128188000",
+        "display": "Cerebral palsy (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "288959006",
+        "display": "Unable to swallow saliva (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "62718007",
+        "display": "Dribbling from mouth (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "53827007",
+        "display": "Excessive salivation (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "267064002",
+        "display": "Retention of urine (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "14760008",
+        "display": "Constipation (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "15802004",
+        "display": "Dystonia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "22253000",
+        "display": "Pain (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "398152000",
+        "display": "Poor muscle tone (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "221360009",
+        "display": "Spasticity (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "64859006",
+        "display": "Osteoporosis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "84757009",
+        "display": "Epilepsy (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "110359009",
+        "display": "Intellectual disability (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "235595009",
+        "display": "Gastroesophageal reflux disease (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "233604007",
+        "display": "Pneumonia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "157265008",
+        "display": "Dislocation of hip joint (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "204949001",
+        "display": "Renal dysplasia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "68496003",
+        "display": "Polyp of colon"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "713197008",
+        "display": "Recurrent rectal polyp"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "236077008",
+        "display": "Protracted diarrhea"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "6072007",
+        "display": "Bleeding from anus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "93761005",
+        "display": "Primary malignant neoplasm of colon"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "109838007",
+        "display": "Overlapping malignant neoplasm of colon"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "94260004",
+        "display": "Secondary malignant neoplasm of colon"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "88805009",
+        "display": "Chronic congestive heart failure (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "27942005",
+        "display": "Shock (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "87433001",
+        "display": "Pulmonary emphysema (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "185086009",
+        "display": "Chronic obstructive bronchitis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "190905008",
+        "display": "Cystic Fibrosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "206523001",
+        "display": "Meconium Ileus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "707418001",
+        "display": "Male infertility due to cystic fibrosis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "707577004",
+        "display": "Female Infertility"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "427089005",
+        "display": "Diabetes from Cystic Fibrosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "11218009",
+        "display": "Infection caused by Pseudomonas aeruginosa"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "406602003",
+        "display": "Infection caused by Staphylococcus aureus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "448813005",
+        "display": "Sepsis caused by Pseudomonas (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "448417001",
+        "display": "Sepsis caused by Staphylococcus aureus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "65710008",
+        "display": "Acute respiratory failure (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "230265002",
+        "display": "Familial Alzheimer's disease of early onset (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "24079001",
+        "display": "Atopic dermatitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "40275004",
+        "display": "Contact dermatitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "65363002",
+        "display": "Otitis media"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "703151001",
+        "display": "History of single seizure (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "95417003",
+        "display": "Primary fibromyalgia syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "65275009",
+        "display": "Acute Cholecystitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "235919008",
+        "display": "Cholelithiasis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "90560007",
+        "display": "Gout"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "86406008",
+        "display": "Human immunodeficiency virus infection (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "62479008",
+        "display": "Acquired immune deficiency syndrome (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "1871000124103",
+        "display": "Transition from acute care to home-health care (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "32911000",
+        "display": "Homeless (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "876882001",
+        "display": "Died in hospice (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "59621000",
+        "display": "Essential hypertension (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "83664006",
+        "display": "Idiopathic atrophic hypothyroidism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "262521009",
+        "display": "Traumatic injury of spinal cord and/or vertebral column (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "1734006",
+        "display": "Fracture of the vertebral column with spinal cord injury"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "698754002",
+        "display": "Chronic paralysis due to lesion of spinal cord"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "15724005",
+        "display": "Fracture of vertebral column without spinal cord injury"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "283545005",
+        "display": "Gunshot wound (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "262574004",
+        "display": "Bullet wound"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "110030002",
+        "display": "Concussion injury of brain (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "62106007",
+        "display": "Concussion with no loss of consciousness"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "62564004",
+        "display": "Concussion with loss of consciousness"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "275272006",
+        "display": "Brain damage - traumatic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "90460009",
+        "display": "Injury of neck (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "39848009",
+        "display": "Whiplash injury to neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "125605004",
+        "display": "Fracture of bone (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "58150001",
+        "display": "Fracture of clavicle"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "65966004",
+        "display": "Fracture of forearm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "263102004",
+        "display": "Fracture subluxation of wrist"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "16114001",
+        "display": "Fracture of ankle"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "33737001",
+        "display": "Fracture of rib"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "359817006",
+        "display": "Closed fracture of hip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "443165006",
+        "display": "Pathological fracture due to osteoporosis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "48333001",
+        "display": "Burn injury (morphologic abnormality)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "403190006",
+        "display": "Epidermal burn of skin (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "403191005",
+        "display": "Second degree burn"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "403192003",
+        "display": "Third degree burn"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "312608009",
+        "display": "Laceration - injury (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "284549007",
+        "display": "Laceration of hand"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "283371005",
+        "display": "Laceration of forearm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "283385000",
+        "display": "Laceration of thigh"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "370247008",
+        "display": "Facial laceration"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "284551006",
+        "display": "Laceration of foot"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "384709000",
+        "display": "Sprain (morphologic abnormality)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "44465007",
+        "display": "Sprain of ankle"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "70704007",
+        "display": "Sprain of wrist"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "125601008",
+        "display": "Injury of knee (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "444470001",
+        "display": "Injury of anterior cruciate ligament"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "444448004",
+        "display": "Injury of medial collateral ligament of knee"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "239720000",
+        "display": "Tear of meniscus of knee"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "30832001",
+        "display": "Rupture of patellar tendon"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "307731004",
+        "display": "Injury of tendon of the rotator cuff of shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "698306007",
+        "display": "Awaiting transplantation of kidney (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "161665007",
+        "display": "History of renal transplant (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "213150003",
+        "display": "Kidney transplant failure and rejection (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "162573006",
+        "display": "Suspected lung cancer (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "254637007",
+        "display": "Non-small cell lung cancer (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "254632001",
+        "display": "Small cell carcinoma of lung (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "424132000",
+        "display": "Non-small cell carcinoma of lung, TNM stage 1 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "425048006",
+        "display": "Non-small cell carcinoma of lung, TNM stage 2 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "422968005",
+        "display": "Non-small cell carcinoma of lung, TNM stage 3 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "423121009",
+        "display": "Non-small cell carcinoma of lung, TNM stage 4 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "67811000119102",
+        "display": "Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "67821000119109",
+        "display": "Primary small cell malignant neoplasm of lung, TNM stage 2 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "67831000119107",
+        "display": "Primary small cell malignant neoplasm of lung, TNM stage 3 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "67841000119103",
+        "display": "Primary small cell malignant neoplasm of lung, TNM stage 4 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "200936003",
+        "display": "Lupus erythematosus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "314529007",
+        "display": "Medication review due (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "80394007",
+        "display": "Hyperglycemia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "302870006",
+        "display": "Hypertriglyceridemia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "237602007",
+        "display": "Metabolic syndrome X (disorder)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "15777000",
+        "display": "Prediabetes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "44054006",
+        "display": "Diabetes mellitus type 2 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "368581000119106",
+        "display": "Neuropathy due to type 2 diabetes mellitus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "127295002",
+        "display": "Traumatic brain injury (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "399211009",
+        "display": "History of myocardial infarction (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "22298006",
+        "display": "Myocardial infarction (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "196416002",
+        "display": "Impacted molars"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "82423001",
+        "display": "Chronic pain"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "124171000119105",
+        "display": "Chronic intractable migraine without aura"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "55680006",
+        "display": "Drug overdose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "6525002",
+        "display": "Dependent drug abuse (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "201834006",
+        "display": "Localized, primary osteoarthritis of the hand"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "239873007",
+        "display": "Osteoarthritis of knee"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "239872002",
+        "display": "Osteoarthritis of hip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "72892002",
+        "display": "Normal pregnancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "47200007",
+        "display": "Non-low risk pregnancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "398254007",
+        "display": "Preeclampsia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "198992004",
+        "display": "Antepartum eclampsia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "19169002",
+        "display": "Miscarriage in first trimester"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "85116003",
+        "display": "Miscarriage in second trimester"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "156073000",
+        "display": "Complete miscarriage (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "35999006",
+        "display": "Blighted ovum"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "267253006",
+        "display": "Fetus with chromosomal abnormality"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "37849005",
+        "display": "Congenital uterine anomaly"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "609496007",
+        "display": "Complication occuring during pregnancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "79586000",
+        "display": "Tubal pregnancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "278860009",
+        "display": "Chronic low back pain (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "1121000119107",
+        "display": "Chronic neck pain (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "203082005",
+        "display": "Fibromyalgia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "427419006",
+        "display": "Transformed migraine (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "5602001",
+        "display": "Opioid abuse (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "69896004",
+        "display": "Rheumatoid arthritis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "86849004",
+        "display": "Suicidal deliberate poisoning"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "287185009",
+        "display": "Attempted suicide - cut/stab"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "287182007",
+        "display": "Attempted suicide - suffocation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "287193009",
+        "display": "Suicide - firearms"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "287191006",
+        "display": "Suicide - suffocation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "44301001",
+        "display": "Suicide"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "91302008",
+        "display": "Sepsis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "76571007",
+        "display": "Septic shock (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "67782005",
+        "display": "Acute respiratory distress syndrome (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "444814009",
+        "display": "Viral sinusitis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "75498004",
+        "display": "Acute bacterial sinusitis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "36971009",
+        "display": "Sinusitis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "40055000",
+        "display": "Chronic sinusitis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "78275009",
+        "display": "Obstructive sleep apnea syndrome (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "39898005",
+        "display": "Sleep disorder (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "73430006",
+        "display": "Sleep apnea (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "195662009",
+        "display": "Acute viral pharyngitis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "43878008",
+        "display": "Streptococcal sore throat (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "414667000",
+        "display": "Meningomyelocele (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "171131006",
+        "display": "Meningocele (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "76916001",
+        "display": "Spina bifida occulta (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "230745008",
+        "display": "Hydrocephalus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "298382003",
+        "display": "Scoliosis deformity of spine (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "302297009",
+        "display": "Congenital deformity of foot (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "120991000119102",
+        "display": "History of undergoing in utero procedure while a fetus (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "373587001",
+        "display": "Chiari malformation type II (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "414564002",
+        "display": "Kyphosis deformity of spine (disorder)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "300916003",
+        "display": "Allergy to latex (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "68566005",
+        "display": "Urinary tract infectious disease (disorder)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "399912005",
+        "display": "Pressure ulcer (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "414545008",
+        "display": "Ischemic heart disease (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "161679004",
+        "display": "History of artificial joint (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "301011002",
+        "display": "Escherichia coli urinary tract infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "38822007",
+        "display": "Cystitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "45816000",
+        "display": "Pyelonephritis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "197927001",
+        "display": "Recurrent urinary tract infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "55822004",
+        "display": "Hyperlipidemia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "36923009",
+        "display": "Major depression, single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "126906006",
+        "display": "Neoplasm of prostate"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "314994000",
+        "display": "Metastasis from malignant tumor of prostate (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "92691004",
+        "display": "Carcinoma in situ of prostate (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "315268008",
+        "display": "Suspected prostate cancer (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "47505003",
+        "display": "Posttraumatic stress disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "225444004",
+        "display": "At risk for suicide (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "6471006",
+        "display": "Suicidal thoughts (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "449868002",
+        "display": "Smokes tobacco daily"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "7200002",
+        "display": "Alcoholism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "60573004",
+        "display": "Aortic valve stenosis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "60234000",
+        "display": "Aortic valve regurgitation (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "48724000",
+        "display": "Mitral valve regurgitation (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "79619009",
+        "display": "Mitral valve stenosis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "56786000",
+        "display": "Pulmonic valve stenosis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "91434003",
+        "display": "Pulmonic valve regurgitation (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "111287006",
+        "display": "Tricuspid valve regurgitation (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "49915006",
+        "display": "Tricuspid valve stenosis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "162864005",
+        "display": "Body mass index 30+ - obesity (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "408512008",
+        "display": "Body mass index 40+ - severely obese (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "241929008",
+        "display": "Acute allergic reaction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "271737000",
+        "display": "Anemia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "267020005",
+        "display": "History of tubal ligation (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "183996000",
+        "display": "Sterilization requested (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "87628006",
+        "display": "Bacterial infectious disease (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "706870000",
+        "display": "Acute pulmonary embolism (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "132281000119108",
+        "display": "Acute deep venous thrombosis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "840539006",
+        "display": "COVID-19"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "840544004",
+        "display": "Suspected COVID-19"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "770349000",
+        "display": "Sepsis caused by virus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "84114007",
+        "display": "Heart failure (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "86175003",
+        "display": "Injury of heart (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "40095003",
+        "display": "Injury of kidney (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "234466008",
+        "display": "Acquired coagulation disorder (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "271825005",
+        "display": "Respiratory distress (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "389087006",
+        "display": "Hypoxemia (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "246677007",
+        "display": "Passive conjunctival congestion (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "68235000",
+        "display": "Nasal congestion (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "25064002",
+        "display": "Headache (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "49727002",
+        "display": "Cough (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "267102003",
+        "display": "Sore throat symptom (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "248595008",
+        "display": "Sputum finding (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "84229001",
+        "display": "Fatigue (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "66857006",
+        "display": "Hemoptysis (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "267036007",
+        "display": "Dyspnea (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "422587007",
+        "display": "Nausea (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "249497008",
+        "display": "Vomiting symptom (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "267060006",
+        "display": "Diarrhea symptom (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "68962001",
+        "display": "Muscle pain (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "57676002",
+        "display": "Joint pain (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "43724002",
+        "display": "Chill (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "386661006",
+        "display": "Fever (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "36955009",
+        "display": "Loss of taste (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "56018004",
+        "display": "Wheezing (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "80583007",
+        "display": "Severe anxiety (panic) (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "706893006",
+        "display": "Victim of intimate partner abuse (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "160701002",
+        "display": "Social migrant (finding)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "224355006",
+        "display": "Served in armed forces (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "105531004",
+        "display": "Housing unsatisfactory (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "224295006",
+        "display": "Only received primary school education (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "224299000",
+        "display": "Received higher education (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "73438004",
+        "display": "Unemployed (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "160903007",
+        "display": "Full-time employment (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "160904001",
+        "display": "Part-time employment (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "741062008",
+        "display": "Not in labor force (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "266934004",
+        "display": "Transport problem (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "713458007",
+        "display": "Lack of access to transportation (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "422650009",
+        "display": "Social isolation (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "423315002",
+        "display": "Limited social contact (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "73595000",
+        "display": "Stress (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "266948004",
+        "display": "Has a criminal record (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "446654005",
+        "display": "Refugee (person)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "424393004",
+        "display": "Reports of violence in the environment (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "160968000",
+        "display": "Risk activity involvement (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "10939881000119105",
+        "display": "Unhealthy alcohol drinking behavior (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "361055000",
+        "display": "Misuses drugs (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "401314000",
+        "display": "Acute non-ST segment elevation myocardial infarction (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "4557003",
+        "display": "Preinfarction syndrome (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "401303003",
+        "display": "Acute ST segment elevation myocardial infarction (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "129721000119106",
+        "display": "Acute renal failure on dialysis (disorder)"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://ontoserver.csiro.au/profiles/expansion",
+            "extension": [
+              {
+                "url": "inactive",
+                "valueBoolean": true
+              }
+            ]
+          }
+        ],
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "code": "111282000",
+        "display": "Acute respiratory insufficiency (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "278365007",
+        "display": "Anticoagulant-induced bleeding (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "129574000",
+        "display": "Postoperative myocardial infarction (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "275408006",
+        "display": "Postoperative renal failure (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "312157006",
+        "display": "Infectious mediastinitis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "1231000119100",
+        "display": "History of aortic valve replacement (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "119481000119105",
+        "display": "History of aortic valve repair (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "399261000",
+        "display": "History of coronary artery bypass grafting (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "698819004",
+        "display": "Postoperative sepsis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "274531002",
+        "display": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "61977001",
+        "display": "Chronic type B viral hepatitis (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "128302006",
+        "display": "Chronic hepatitis C (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "428915008",
+        "display": "Toxoplasma gondii antibody positive (finding)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "161622006",
+        "display": "History of lower limb amputation (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "429280009",
+        "display": "History of amputation of foot (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "161621004",
+        "display": "History of upper limb amputation (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "698423002",
+        "display": "History of disarticulation at wrist (situation)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "422034002",
+        "display": "Retinopathy due to type 2 diabetes mellitus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "1551000119108",
+        "display": "Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "1501000119109",
+        "display": "Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "97331000119101",
+        "display": "Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "60951000119105",
+        "display": "Blindness due to type 2 diabetes mellitus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "431855005",
+        "display": "Chronic kidney disease stage 1 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "431856006",
+        "display": "Chronic kidney disease stage 2 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "433144002",
+        "display": "Chronic kidney disease stage 3 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "431857002",
+        "display": "Chronic kidney disease stage 4 (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "127013003",
+        "display": "Disorder of kidney due to diabetes mellitus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "90781000119102",
+        "display": "Microalbuminuria due to type 2 diabetes mellitus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "157141000119108",
+        "display": "Proteinuria due to type 2 diabetes mellitus (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "46177005",
+        "display": "End-stage renal disease (disorder)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "code": "25675004",
+        "display": "Patient transfer to skilled nursing facility (procedure)"
+      }
+    ]
+  }
+}
